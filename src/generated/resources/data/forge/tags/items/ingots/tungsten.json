@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "moremekanismprocessing:tungsten_ingot",
-      "required": false
-    }
-  ]
-}

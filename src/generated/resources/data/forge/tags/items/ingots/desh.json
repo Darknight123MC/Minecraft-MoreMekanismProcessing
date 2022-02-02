@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "moremekanismprocessing:desh_ingot",
-      "required": false
-    }
-  ]
-}

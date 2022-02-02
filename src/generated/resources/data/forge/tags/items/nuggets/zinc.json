@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "moremekanismprocessing:zinc_nugget",
-      "required": false
-    }
-  ]
-}

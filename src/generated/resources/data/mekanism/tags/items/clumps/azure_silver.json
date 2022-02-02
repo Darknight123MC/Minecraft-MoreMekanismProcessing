@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "moremekanismprocessing:clump_azure_silver",
-      "required": false
-    }
-  ]
-}

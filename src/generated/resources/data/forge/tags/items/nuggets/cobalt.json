@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "moremekanismprocessing:cobalt_nugget",
-      "required": false
-    }
-  ]
-}

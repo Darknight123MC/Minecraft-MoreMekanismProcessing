@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "moremekanismprocessing:aluminum_ingot",
-      "required": false
-    }
-  ]
-}

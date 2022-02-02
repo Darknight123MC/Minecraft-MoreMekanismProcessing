@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "moremekanismprocessing:shard_silver",
-      "required": false
-    }
-  ]
-}

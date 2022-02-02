@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "moremekanismprocessing:dust_azure_silver",
-      "required": false
-    }
-  ]
-}

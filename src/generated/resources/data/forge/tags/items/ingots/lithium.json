@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "moremekanismprocessing:lithium_ingot",
-      "required": false
-    }
-  ]
-}

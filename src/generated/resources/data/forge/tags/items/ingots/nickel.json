@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "moremekanismprocessing:nickel_ingot",
-      "required": false
-    }
-  ]
-}
