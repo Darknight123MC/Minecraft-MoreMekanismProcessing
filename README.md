@@ -1,5 +1,8 @@
 # More Mekanism Processing
 
+* 1.16 - https://github.com/gisellevonbingen/Minecraft-MoreMekanismProcessing/tree/1.16
+* 1.18 - https://github.com/gisellevonbingen/Minecraft-MoreMekanismProcessing/tree/1.18
+
 ## Add mekanism's ore processing to other mod's ores
 
 It can 1 ore process into up to 5 ingots
