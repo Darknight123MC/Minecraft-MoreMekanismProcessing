@@ -46,7 +46,7 @@ Depending on the final item of the ore, it is divided into 3 processing trees
 
 ## Dust
 
-* Ore
+* Ore(or Raw)
 * Dirty Slurry
 * Clean Slurry
 * Shard
