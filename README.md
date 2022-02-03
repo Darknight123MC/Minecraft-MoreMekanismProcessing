@@ -13,8 +13,10 @@ It can<br>
 
 I don't know if that was intentional, That ores names is same, but some tags missing
 
-# 1.16.5 - Mekanism version 1.16.5-10.0.20.447 or higher is required
-# 1.18.1 - Mekanism version 1.18.1-10.1.1 or higher is required
+# Dependency
+
+## 1.16.5 - Mekanism version 1.16.5-10.0.20.447 or higher is required
+## 1.18.1 - Mekanism version 1.18.1-10.1.1 or higher is required
 
 https://www.curseforge.com/minecraft/mc-mods/mekanism
 
