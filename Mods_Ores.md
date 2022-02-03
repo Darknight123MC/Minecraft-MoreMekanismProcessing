@@ -115,10 +115,16 @@
 * Bismuth Ingot
 * Aluminium Ingot (Bauxite)
 
-## Space-BossTools
+## Space-BossTools (1.16.5)
 
 * Desh Ingot
 * Silicon Ingot
+
+## Beyond Earth (1.18.1)
+
+* Desh Ingot
+* Ostrum Ingot
+* Calorite Ingot
 
 ## Thermal Foundation
 
