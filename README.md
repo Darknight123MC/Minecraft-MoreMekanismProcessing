@@ -24,7 +24,9 @@ Can't decide one value each properties
 
 That's reason
 
-# Why don't provide Combiner recipes?
+# Combiner recipes
+
+Not provide combiner recipes
 
 Mekanism Recipe's output require exact item registry name (e.g. xxxmod:silver_ore)
 
