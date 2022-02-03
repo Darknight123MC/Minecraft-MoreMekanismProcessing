@@ -32,7 +32,7 @@ Can't decide one value each properties
 
 That's reason
 
-# Combiner recipes
+# Combiner Recipe
 
 Not provide combiner recipes
 
