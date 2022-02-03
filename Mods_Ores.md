@@ -29,11 +29,19 @@
 * Lithium (lithium dust can mixable with mekanism:dust_lithium)
 * Nickel
 * Platinum
-* Silicon
 * Silver
 * Titanium
 * Tungsten
 * Zinc
+
+### 1.16.5
+
+* Silicon
+
+### 1.18.1
+
+* Ostrum
+* Calorite
 
 ## Dusts
 
