@@ -5,8 +5,8 @@
 
 ## Add mekanism's ore processing to other mod's ores
 
-It can
-1 ore process into up to 5 ingots
+It can<br>
+1 ore process into up to 5 ingots<br>
 3 raw process into up to 10 ingots
 
 ## Fix missing tags
