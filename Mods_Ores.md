@@ -46,8 +46,13 @@
 ## Dusts
 
 * Electrotine
+* Certus Quartz
 
 # Tested Mods/Ores
+
+## Applied Energistics 2 (AE2)
+
+* Certus Quartz Dust
 
 ## Better Diving
 
@@ -145,3 +150,8 @@
 ## Tinkers Construct
 
 * Cobalt Ingot
+
+## Voluminous Energy
+
+* Bauxite Ore to Aluminum  (Fix Tags)
+* Rutile Ore to Titanium (Fix Tags)
