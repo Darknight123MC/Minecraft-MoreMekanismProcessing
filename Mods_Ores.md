@@ -46,13 +46,8 @@
 ## Dusts
 
 * Electrotine
-* Certus Quartz
 
 # Tested Mods/Ores
-
-## Applied Energistics 2 (AE2)
-
-* Certus Quartz Dust
 
 ## Better Diving
 
